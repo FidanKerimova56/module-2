@@ -1,370 +1,328 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;600&family=Oswald:wght@500&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Oswald:wght@500&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;600&family=Oswald:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Oswald:wght@500&display=swap");
 
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Oswald:wght@700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
-
-
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Oswald:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap");
 
 /* !Global Css */
 
 /* !Section -1 */
 
-
 /* !Section -2 */
-
 
 /* !Section -3 */
 
 .sect3-container {
-    background-color: #382459;
-width: 320px;
-height: 824px;
-padding-right: 32px;
+  background-color: #382459;
+  width: 320px;
+  height: 824px;
+  padding-right: 32px;
 }
 
-.sect3-h1{
-    padding-left: 32px;
-    margin-bottom: 21.38px;
-    padding-top: 78.27px;
-
-Font-family: Oswald;
-Font-style: Medium;
-Font-size: 40px;
-Line-height: 33.35px;
-Line-height: 56%;
-Align: Left;
-Vertical-align: Top;
-Letter-spacing: 3%;
-Fill: Solid;
-color: #30FFCD;
+.sect3-h1 {
+  padding-left: 32px;
+  margin-bottom: 21.38px;
+  padding-top: 78.27px;
+  font-family: Oswald;
+  font-style: Medium;
+  font-size: 40px;
+  line-height: 33.35px;
+  line-height: 56%;
+  vertical-align: Top;
+  letter-spacing: 3%;
+  fill: Solid;
+  color: #30ffcd;
 }
-
-
 
 .sect3-1-p1 {
-    padding-left: 32px;
-    Font-style: Medium;
-font-family: Montserrat;
-Font-size: 11px;
-Line-height: 16px;
-Line-height: 119%;
-Align: Left;
-Vertical-align: Top;
-Fill: Solid;
-color:#FFFFFF}
+  padding-left: 32px;
+  font-style: Medium;
+  font-family: Montserrat;
+  font-size: 11px;
+  line-height: 16px;
+  line-height: 119%;
+  
+  vertical-align: Top;
+  fill: Solid;
+  color: #ffffff;
+}
 
 .sect3-1-p2 {
-    margin-top: 12.94px;
-    padding-left: 32px;
-Font-family: Montserrat;
-Font-style: Medium;
-Font-size: 9px;;
-Line-height: 15.01px;
-Line-height: 137%;
-Align: Left;
-Vertical-align: Top;
-Opacity: 62%;
-Fill: Solid;
-color: #FFFFFF; }
+  margin-top: 12.94px;
+  padding-left: 32px;
+  font-family: Montserrat;
+  font-style: Medium;
+  font-size: 9px;
+  line-height: 15.01px;
+  line-height: 137%;
+  align: Left;
+  vertical-align: Top;
+  opacity: 62%;
+  fill: Solid;
+  color: #ffffff;
+}
 
-
-
-.sect3-h2{
-    padding-left: 32px;
-    margin-top: 53.02px;
-Font-family: Oswald;
-Font-style: Medium;
-Font-size: 40px;
-Line-height: 33.35px;
-Line-height: 56%;
-Align: Left;
-Vertical-align: Top;
-Letter-spacing: 3%;
-Fill: Solid;
-color: #30FFCD;
+.sect3-h2 {
+  padding-left: 32px;
+  margin-top: 53.02px;
+  font-family: Oswald;
+  font-style: Medium;
+  font-size: 40px;
+  line-height: 33.35px;
+  line-height: 56%;
+  align: Left;
+  vertical-align: Top;
+  letter-spacing: 3%;
+  fill: Solid;
+  color: #30ffcd;
 }
 
 .sect3-2-p1 {
-    margin-top: 21.60px;
-    padding-right: 32px;
-    padding-left: 32px;
-    Font-style: Medium;
-font-family: Montserrat;
-Font-size: 11px;
-Line-height: 16px;
-Line-height: 119%;
-Align: Left;
-Vertical-align: Top;
-Fill: Solid;
-color:#FFFFFF}
+  margin-top: 21.6px;
+  padding-right: 32px;
+  padding-left: 32px;
+  font-style: Medium;
+  font-family: Montserrat;
+  font-size: 11px;
+  line-height: 16px;
+  line-height: 119%;
+  align: Left;
+  vertical-align: Top;
+  fill: Solid;
+  color: #ffffff;
+}
 
 .sect3-2-p2 {
-    margin-top: 13px;
-    padding-left: 32px;
-Font-family: Montserrat;
-Font-style: Medium;
-Font-size: 9px;;
-Line-height: 15.01px;
-Line-height: 137%;
-Align: Left;
-Vertical-align: Top;
-Opacity: 62%;
-Fill: Solid;
-color: #FFFFFF; }
-
-
-
-
-
-
-
-.sect3-h3{
-    padding-left: 12px;
-    margin-bottom: 21.6px;
-    margin-top: 60.96px;
-
-Font-family: Oswald;
-Font-style: Medium;
-Font-size: 40px;
-Line-height: 33.35px;
-Line-height: 56%;
-Align: Left;
-Vertical-align: Top;
-Letter-spacing: 3%;
-Fill: Solid;
-color: #30FFCD;
+  margin-top: 13px;
+  padding-left: 32px;
+  font-family: Montserrat;
+  font-style: Medium;
+  font-size: 9px;
+  line-height: 15.01px;
+  line-height: 137%;
+  align: Left;
+  vertical-align: Top;
+  opacity: 62%;
+  fill: Solid;
+  color: #ffffff;
 }
 
+.sect3-h3 {
+  padding-left: 12px;
+  margin-bottom: 21.6px;
+  margin-top: 60.96px;
 
+  font-family: Oswald;
+  font-style: Medium;
+  font-size: 40px;
+  line-height: 33.35px;
+  line-height: 56%;
+  align: Left;
+  vertical-align: Top;
+  letter-spacing: 3%;
+  fill: Solid;
+  color: #30ffcd;
+}
 
 .sect3-3-p1 {
-    padding-right: 40px;
-    padding-left: 32px;
-    margin-bottom: 9px;
-    Font-style: Medium;
-font-family: Montserrat;
-Font-size: 11px;
-Line-height: 16px;
-Line-height: 119%;
-Align: Left;
-Vertical-align: Top;
-Fill: Solid;
-color:#FFFFFF}
-
-.sect3-3-p2 {
-    padding-left: 32px;
-    margin-bottom: 56.50px;
-Font-family: Montserrat;
-Font-style: Medium;
-Font-size: 9px;;
-Line-height: 15.01px;
-Line-height: 137%;
-Align: Left;
-Vertical-align: Top;
-Opacity: 62%;
-Fill: Solid;
-color: #FFFFFF; }
-
-
-
-
-
-
-
-.sect3-h4{
-    padding-left: 32px;
-    margin-bottom: 21.74px;
-
-Font-family: Oswald;
-Font-style: Medium;
-Font-size: 40px;
-Line-height: 33.35px;
-Line-height: 56%;
-Align: Left;
-Vertical-align: Top;
-Letter-spacing: 3%;
-Fill: Solid;
-color: #30FFCD;
+  padding-right: 40px;
+  padding-left: 32px;
+  margin-bottom: 9px;
+  font-style: Medium;
+  font-family: Montserrat;
+  font-size: 11px;
+  line-height: 16px;
+  line-height: 119%;
+  align: Left;
+  vertical-align: Top;
+  fill: Solid;
+  color: #ffffff;
 }
 
+.sect3-3-p2 {
+  padding-left: 32px;
+  margin-bottom: 56.5px;
+  font-family: Montserrat;
+  font-style: Medium;
+  font-size: 9px;
+  line-height: 15.01px;
+  line-height: 137%;
+  align: Left;
+  vertical-align: Top;
+  opacity: 62%;
+  fill: Solid;
+  color: #ffffff;
+}
 
+.sect3-h4 {
+  padding-left: 32px;
+  margin-bottom: 21.74px;
+
+  font-family: Oswald;
+  font-style: Medium;
+  font-size: 40px;
+  line-height: 33.35px;
+  line-height: 56%;
+  align: Left;
+  vertical-align: Top;
+  letter-spacing: 3%;
+  fill: Solid;
+  color: #30ffcd;
+}
 
 .sect3-4-p1 {
-    padding-right: 32px;
-    padding-left: 32px;
-    margin-bottom: 22.16px;
-    Font-style: Medium;
-font-family: Montserrat;
-Font-size: 11px;
-Line-height: 16px;
-Line-height: 119%;
-Align: Left;
-Vertical-align: Top;
-Fill: Solid;
-color:#FFFFFF}
+  padding-right: 32px;
+  padding-left: 32px;
+  margin-bottom: 22.16px;
+  font-style: Medium;
+  font-family: Montserrat;
+  font-size: 11px;
+  line-height: 16px;
+  line-height: 119%;
+  align: Left;
+  vertical-align: Top;
+  fill: Solid;
+  color: #ffffff;
+}
 
 .sect3-4-p2 {
-    margin-top: 20.57px;
-    padding-left: 32px;
+  margin-top: 20.57px;
+  padding-left: 32px;
 
-Font-family: Montserrat;
-Font-style: Medium;
-Font-size: 9px;;
-Line-height: 15.01px;
-Line-height: 137%;
-Align: Left;
-Vertical-align: Top;
-Opacity: 62%;
-Fill: Solid;
-color: #FFFFFF; }
-
-
-
-
-
+  font-family: Montserrat;
+  font-style: Medium;
+  font-size: 9px;
+  line-height: 15.01px;
+  line-height: 137%;
+  align: Left;
+  vertical-align: Top;
+  opacity: 62%;
+  fill: Solid;
+  color: #ffffff;
+}
 
 /* !Section -4 */
 
-.sect4-container{
-    background-color: white;
-    width: 320px;
+.sect4-container {
+  background-color: white;
+  width: 320px;
 }
 
-.sec4-h1{
-
-
-padding-left: 32px;
-padding-right: 16px;
-margin-top: 78.96px;
-color:#382459
-;
-Weight:  700, Bold;
-Font-family: Oswald;
-Font-style: Bold;
-Font-size: 24.7px;
-Line-height: 28px;
-Line-height: 76%;
-Align: Left;
-Vertical-align: Top;
-Letter-spacing: 3%;
+.sec4-h1 {
+  padding-left: 32px;
+  padding-right: 16px;
+  margin-top: 78.96px;
+  color: #382459;
+  weight: 700, Bold;
+  font-family: Oswald;
+  font-style: Bold;
+  font-size: 24.7px;
+  line-height: 28px;
+  line-height: 76%;
+  align: Left;
+  vertical-align: Top;
+  letter-spacing: 3%;
 }
 
-
-.sec4-div1-h{
-padding-left: 32px;
-margin-top: 53.01px;
-margin-bottom: 12px;
-Font-family: Montserrat;
-Font-style: SemiBold;
-Font-size: 18px;
-Line-height: 20px;
-Line-height: 91%;
-Align: Left;
-Vertical-align: Top;
-Fill: Solid;
-color:#382459;}
-
-
-.sec4-div2-h{
-
-    padding-left: 32px;
-    padding-right: 40px;
-    margin-bottom: 15px;
-    Font-family: Montserrat;
-    Font-style: SemiBold;
-    Font-size: 18px;
-    Line-height: 20px;
-    Line-height: 91%;
-    Align: Left;
-    Vertical-align: Top;
-    Fill: Solid;
-    color:#382459;}
-    
-.sec4-div3-h{
-    padding-left: 32px;
-    margin-bottom: 12px;
-    Font-family: Montserrat;
-    Font-style: SemiBold;
-    Font-size: 15px;
-    Line-height: 20px;
-    Line-height: 91%;
-    Align: Left;
-    Vertical-align: Top;
-    Fill: Solid;
-    color:#382459;}
-
-
-
-.sec4-p1{
-    padding-left: 32px;
-    margin-bottom: 28px;
-    Font-family: Montserrat;
-    Font-style: Medium;
-    Font-size: 11px;
-    Line-height: 16px;
-    Line-height: 119%;
-    Align: Left;
-    Vertical-align: Top;
-    Paragraph-spacing: 14.13px;
-    Fill: Solid;
-   color: #382459;
-   weight: 500,Medium;
-
+.sec4-div1-h {
+  padding-left: 32px;
+  margin-top: 53.01px;
+  margin-bottom: 12px;
+  font-family: Montserrat;
+  font-style: SemiBold;
+  font-size: 18px;
+  line-height: 20px;
+  line-height: 91%;
+  align: Left;
+  vertical-align: Top;
+  fill: Solid;
+  color: #382459;
 }
 
-.sec4-p2{
-    padding-left: 32px;
-    padding-right: 32px;
-    margin-bottom: 32px;
-    Font-family: Montserrat;
-    Font-style: Medium;
-    Font-size: 11px;
-    Line-height: 16px;
-    Line-height: 119%;
-    Align: Left;
-    Vertical-align: Top;
-    Paragraph-spacing: 14.13px;
-    Fill: Solid;
-   color: #382459;
-   weight: 500,Medium;
-
+.sec4-div2-h {
+  padding-left: 32px;
+  padding-right: 40px;
+  margin-bottom: 15px;
+  font-family: Montserrat;
+  font-style: SemiBold;
+  font-size: 18px;
+  line-height: 20px;
+  line-height: 91%;
+  align: Left;
+  vertical-align: Top;
+  fill: Solid;
+  color: #382459;
 }
 
-.sec4-p3{
-    padding-left: 32px;
-    padding-right: 28px;
-    padding-bottom: 56px;
-    Font-family: Montserrat;
-    Font-style: Medium;
-    Font-size: 11px;
-    Line-height: 16px;
-    Line-height: 119%;
-    Align: Left;
-    Vertical-align: Top;
-    Paragraph-spacing: 14.13px;
-    Fill: Solid;
-   color: #382459;
-   weight: 500,Medium;
-
+.sec4-div3-h {
+  padding-left: 32px;
+  margin-bottom: 12px;
+  font-family: Montserrat;
+  font-style: SemiBold;
+  font-size: 15px;
+  line-height: 20px;
+  line-height: 91%;
+  align: Left;
+  vertical-align: Top;
+  fill: Solid;
+  color: #382459;
 }
 
+.sec4-p1 {
+  padding-left: 32px;
+  margin-bottom: 28px;
+  font-family: Montserrat;
+  font-style: Medium;
+  font-size: 11px;
+  line-height: 16px;
+  line-height: 119%;
+  align: Left;
+  vertical-align: Top;
+  paragraph-spacing: 14.13px;
+  fill: Solid;
+  color: #382459;
+  weight: 500, Medium;
+}
 
+.sec4-p2 {
+  padding-left: 32px;
+  padding-right: 32px;
+  margin-bottom: 32px;
+  font-family: Montserrat;
+  font-style: Medium;
+  font-size: 11px;
+  line-height: 16px;
+  line-height: 119%;
+  align: Left;
+  vertical-align: Top;
+  paragraph-spacing: 14.13px;
+  fill: Solid;
+  color: #382459;
+  weight: 500, Medium;
+}
 
-
-
-
-
+.sec4-p3 {
+  padding-left: 32px;
+  padding-right: 28px;
+  padding-bottom: 56px;
+  font-family: Montserrat;
+  font-style: Medium;
+  font-size: 11px;
+  line-height: 16px;
+  line-height: 119%;
+  align: Left;
+  vertical-align: Top;
+  paragraph-spacing: 14.13px;
+  fill: Solid;
+  color: #382459;
+  weight: 500, Medium;
+}
 
 /* !Section -5 */
 
-
 /* !Section -6 */
-
 
 /* !Section -7 */
 
-
 /* !Section -8 */
-
