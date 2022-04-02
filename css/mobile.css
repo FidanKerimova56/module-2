@@ -6,8 +6,50 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap");
 
 /* !Global Css */
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container{
+    width: 100%;
+}
 
 /* !Section -1 */
+.section-1{
+  
+  background-image: url(../img/sec1-mobile.svg);
+  background-position: cover;
+  background-repeat: no-repeat;
+  background-color: ;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /* !Section -2 */
 
