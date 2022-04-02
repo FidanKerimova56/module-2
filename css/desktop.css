@@ -334,8 +334,7 @@ color:#382459;}
 }
 
 /* !Section -5 */
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Oswald:wght@500&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Oswald:wght@500;700&display=swap');
 .crestfallen{
     display: flex;
     padding: 106px 160px 106px 120px;
@@ -353,20 +352,29 @@ color:#382459;}
     letter-spacing: 0.03em;
     line-height: 48px;
     height: 48px;
+    display: block;
 }
 p{
     color: #FFFFFF;
-    width: 400px;
-    /height: 264px;/
+   
+ 
     font-family: "Montserrat";
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
-    line-height: 24px;
+    line-height: 123%;
+    width: 400px;
+    
     
 }
+
+
+
+
+
 .right{
     margin-left: 80px;
+    display: block;
 }
 .ramo{
     margin-top: 80px;
@@ -384,17 +392,53 @@ p{
     line-height: 24px;
     text-align: center;
     letter-spacing: 0.02em;
-    margin-top: 71px;
+  
 }
+.red{
+    margin-top: 100px;
+}
+.blue{
+    margin-top: 32px;
+}
+
+
+
+
+
+
 .samus{
     height: 264px;
+    
+    
+
+
+
+
+
+
 }
+
+.flash{
+    display: none;
+}
+.success{
+    display: none;
+
+}
+.purple{
+    display: none;
+}
+
+
 
 
 /* !Section -6 */
 
 .super{
+
     background-color: #FFFFFF;
+    display: flex;
+    height: 360px;
 }
 .ficious{
     
@@ -423,6 +467,15 @@ p{
     color: #382459;
     margin-top: 50px;
 }
+.malcik{
+    width: 464px;
+    height: 650px;
+    margin-left: 56px;
+    display: block;
+   
+}
+
+
 
 
 /* !Section -7 */
