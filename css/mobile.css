@@ -159,6 +159,7 @@
   width: 60.1px;
   height: 64.48px;
   margin-bottom: 16.94px;
+  margin-left: 0;
 }
 .aboutUniversity h3 {
   width: 260px;
@@ -548,7 +549,10 @@
 .odin {
   display: none;
 }
-p {
+p.tuss{
+  color: #ffffff;
+}
+.p {
   color: #ffffff;
   font-family: Montserrat;
   font-size: 11px;
@@ -556,7 +560,7 @@ p {
   line-height: 16px;
   letter-spacing: 0em;
   text-align: left;
-  margin-left: 10px;
+  /* margin-left: 10px; */
 }
 .purple {
   display: block;
