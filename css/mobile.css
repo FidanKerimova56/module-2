@@ -48,9 +48,6 @@
   background-size: cover;
   background-repeat: no-repeat;
   z-index: 2;
-
- 
-
 }
 .sec1-nav {
   display: flex;
@@ -66,7 +63,6 @@
 .sec1-main > h2 {
   width: 256px;
   height: 67.64px;
-
   font-family: "Oswald";
   font-style: normal;
   font-weight: 700;
@@ -87,6 +83,7 @@
   line-height: 16px;
   color: #ffffff;
   margin-bottom: 25px;
+  margin-left: 0;
 }
 .sec1-main > .starting-date {
   width: 198px;
