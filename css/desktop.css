@@ -444,6 +444,7 @@ color:#382459;}
     
     margin-top: 114px;
     margin-left: 120px;
+    
 }
 .hazard{
     font-family: 'Oswald';
@@ -472,6 +473,7 @@ color:#382459;}
     height: 650px;
     margin-left: 56px;
     display: block;
+    
    
 }
 
@@ -479,6 +481,70 @@ color:#382459;}
 
 
 /* !Section -7 */
+.storm{
+    display: flex;
+    background-color: #382459;
+    padding: 152px 288px 136px 120px;
+    height: 576px;
+}
+.umbrella{
+    font-family: Oswald;
+font-size: 47px;
+font-weight: 700;
+line-height: 52px;
+letter-spacing: 0.03em;
+text-align: left;
+color: #30FFCD;
+width: 402px;
+height: 100px;
+
+}
+.water{
+    margin-top: 27px;font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 480px;
+    height: 70px;
+    color: #FFFFFF;
+    
+
+
+
+
+}
+
+.ice{
+    height: 48px;
+width: 224px;
+border-radius: 48px;
+background-color: rgba(255, 29, 192, 1);
+color: #FFFFFF;
+margin-top: 43px;
+
+}
+.rain{
+ 
+width: 539px;
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 /* !Section -8 */
