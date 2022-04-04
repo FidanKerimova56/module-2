@@ -566,6 +566,7 @@ right: 112px;
 .ficious {
   margin-top: 114px;
   margin-left: 120px;
+
 }
 .hazard {
   font-family: "Oswald";
@@ -664,3 +665,8 @@ width: 539px;
 
 
 /* !Section -8 */
+
+.marlboro{
+    display: flex;
+}
+
