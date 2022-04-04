@@ -54,6 +54,9 @@
   background-repeat: no-repeat;
   z-index: 2;
 }
+.desktop-side{
+  display: none;
+}
 .sec1-nav {
   display: flex;
   justify-content: space-between;
