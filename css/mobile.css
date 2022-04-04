@@ -622,5 +622,59 @@ p {
 }
 
 /* !Section -7 */
+.storm{
+  height: 468px;
+  background-color: #382459;
+}
+.rain{
+  height: 300px;
+width: 300px;
+
+padding-left: 200px;
+
+
+}
+
+.umbrella{
+  height: 33.34736251831055px;
+width: 295.67999267578125px;
+margin-left: 38px;
+color: rgba(48, 255, 205, 1);
+
+
+
+}
+.water{
+  margin-top: 51px;
+  margin-left: 32px;
+  font-family: Montserrat;
+font-size: 11px;
+font-weight: 500;
+line-height: 16px;
+letter-spacing: 0em;
+text-align: left;
+color: #ffffff;
+width: 236px;
+height: 63px;
+
+}
+.ice{
+  margin-top: 40px;
+  margin-left: 28px;
+  
+  background: rgba(255, 29, 192, 1);
+  height: 40px;
+width: 193.53564453125px;
+
+border-radius: 40px;
+
+
+  
+  
+}
+
+
+
+
 
 /* !Section -8 */
