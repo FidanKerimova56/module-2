@@ -562,17 +562,10 @@ right: 112px;
   display: flex;
   height: 360px;
 }
-<<<<<<< HEAD
+
 .ficious {
   margin-top: 114px;
   margin-left: 120px;
-=======
-.ficious{
-    
-    margin-top: 114px;
-    margin-left: 120px;
-    
->>>>>>> a4f7570a12c7a65977122b9cd32476c231f7a5ef
 }
 .hazard {
   font-family: "Oswald";
