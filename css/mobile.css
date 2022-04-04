@@ -5,6 +5,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Courier+Prime&family=Lato:wght@300;400&family=Maven+Pro:wght@400;500;600;800&family=Montserrat:wght@300;400;500;700;800;900&family=Roboto+Slab:wght@100;200;300;700&family=Roboto:wght@100;300;400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Courier+Prime&family=Lato:wght@300;400&family=Maven+Pro:wght@400;500;600;800&family=Montserrat:wght@300;400;500;600;700;800;900&family=Roboto+Slab:wght@100;200;300;700&family=Roboto:wght@100;300;400;500;700&display=swap");
 
 /* !Global Css */
 * {
@@ -21,7 +22,6 @@
   background-color: #382459;
   height: 574px;
   padding-bottom: 53.94px;
-  
 }
 .sec1-opacity {
   background: #382459;
@@ -32,8 +32,13 @@
   z-index: 2;
   width: 100%;
 }
-.sec1-gradient{
-  background: linear-gradient(357.36deg, #382459 5.53%, rgba(56, 36, 89, 0.44) 38.94%, rgba(56, 36, 89, 0) 110.68%);
+.sec1-gradient {
+  background: linear-gradient(
+    357.36deg,
+    #382459 5.53%,
+    rgba(56, 36, 89, 0.44) 38.94%,
+    rgba(56, 36, 89, 0) 110.68%
+  );
   width: 100%;
   height: 332px;
   position: absolute;
@@ -48,6 +53,9 @@
   background-size: cover;
   background-repeat: no-repeat;
   z-index: 2;
+}
+.desktop-side{
+  display: none;
 }
 .sec1-nav {
   display: flex;
@@ -98,7 +106,6 @@
   margin-bottom: 42.29px;
 }
 .sec1-footer {
-
   display: flex;
   align-items: center;
 }
@@ -109,6 +116,96 @@
 }
 
 /* !Section -2 */
+.section-2 {
+  padding: 68px 28px 88px 32px;
+}
+.section-2 > h2 {
+  width: 80vw;
+  height: 50.02px;
+  font-family: "Oswald";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24.7px;
+  line-height: 50px;
+  letter-spacing: 0.03em;
+  color: #382459;
+  margin-bottom: 47.86px;
+}
+.aboutJob-icon {
+  width: 52.93;
+  height: 51.55px;
+  margin-bottom: 26.55px;
+}
+.aboutJOb h3 {
+  width: 196px;
+  height: 52.23px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 20px;
+  color: #382459;
+}
+.aboutJOb p {
+  width: 256px;
+  height: 68px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 11px;
+  line-height: 16px;
+  color: #382459;
+  margin: 0;
+  margin-bottom: 46.58px;
+}
+.aboutUniversity-icon img {
+  width: 60.1px;
+  height: 64.48px;
+  margin-bottom: 16.94px;
+  margin-left: 0;
+}
+.aboutUniversity h3 {
+  width: 260px;
+  height: 46.62px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 20px;
+  color: #382459;
+  margin: 0;
+  margin-bottom: 13.38px;
+}
+.aboutUniversity p {
+  width: 248px;
+  height: 76px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 11px;
+  line-height: 16px;
+  color: #382459;
+  margin-bottom: 56px;
+}
+.sec-button {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 13.2857px 29.5238px;
+  width: 193.54px;
+  height: 40px;
+  background: #ff1dc0;
+  border-radius: 40px;
+  border: none;
+  color: white;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 15.0508px;
+  line-height: 18px;
+}
+
 
 
 
@@ -421,129 +518,108 @@
 }
 
 /* !Section -5 */
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Oswald:wght@500;700&display=swap');
-.crestfallen{
-  background-color: #2E1E49;
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Oswald:wght@500;700&display=swap");
+.crestfallen {
+  background-color: #2e1e49;
   padding: 43px 20px 68px 20px;
-  
 }
-.flash{
+.flash {
   display: block;
   color: #30ffcd;
-  Font-family: 'Oswald';
-Font-style: Bold;
-Font-size: 24.7px;
-Line-height: 28px;
-Line-height: 76%;
+  font-family: "Oswald";
+  font-style: Bold;
+  font-size: 24.7px;
+  line-height: 28px;
+  line-height: 76%;
 
-Letter-spacing: 3%;
-width: 272px;
-margin-top: 30px;
-margin-left: 16px;
-height: 28px;
-width: 272px;
-
-
-
+  letter-spacing: 3%;
+  width: 272px;
+  margin-top: 30px;
+  margin-left: 16px;
+  height: 28px;
+  width: 272px;
 }
 
-
-.right{
+.right {
   display: none;
 }
-.admin{
-  display: block;
-  
-}
-.success{
-  
+.admin {
   display: block;
 }
-.odin{
+.success {
+  display: block;
+}
+.odin {
   display: none;
 }
-.tuss{
+
+
+p {
   color: #ffffff;
   font-family: Montserrat;
-font-size: 11px;
-font-weight: 500;
-line-height: 16px;
-letter-spacing: 0em;
-text-align: left;
-margin-left: 10px;
-
-  
-  
+  font-size: 11px;
+  font-weight: 500;
+  line-height: 16px;
+  letter-spacing: 0em;
+  text-align: left;
+  /* margin-left: 10px; */
 }
-.purple{
+.purple {
   display: block;
-  color: #FF1DC0;
+  color: #ff1dc0;
   width: 10px;
   height: 10px;
 }
-.pink{
+.pink {
   display: flex;
-  
 }
-.ecos{
+.ecos {
   width: 135px;
   height: 40px;
-border-radius: 48px;
-border: 1px solid #30ffcd;
-color: #30ffcd;
-Font-family: 'Montserrat';
-Font-style: Medium;
-Font-size: 11px;
-Line-height: 119%;
-margin-top: 30px;
-background-color: #2E1E49;
-
+  border-radius: 48px;
+  border: 1px solid #30ffcd;
+  color: #30ffcd;
+  font-family: "Montserrat";
+  font-style: Medium;
+  font-size: 11px;
+  line-height: 119%;
+  margin-top: 30px;
+  background-color: #2e1e49;
 }
 
-
-
-
-
 /* !Section -6 */
-.hazard{
-  font-family: 'Oswald';
+.hazard {
+  font-family: "Oswald";
   font-size: 25px;
   font-weight: 700;
   line-height: 28px;
   letter-spacing: 0.03em;
   text-align: left;
- 
+
   color: #382459;
-  
 }
 
-.therefore{
- font-family: 'Montserrat';
-font-size: 11px;
-font-weight: 500;
-line-height: 16px;
-letter-spacing: 0em;
-text-align: left;
-margin-top: 17px;
-color: #382459;
-
+.therefore {
+  font-family: "Montserrat";
+  font-size: 11px;
+  font-weight: 500;
+  line-height: 16px;
+  letter-spacing: 0em;
+  text-align: left;
+  margin-top: 17px;
+  color: #382459;
 }
-.ficious{
+.ficious {
   margin-top: 79px;
 }
 
-
-
-.super{
-  padding: 79px 16px 84px 32px ;
+.super {
+  padding: 79px 16px 84px 32px;
   background-color: #ffffff;
 }
-.malcik{
+.malcik {
   display: none;
 }
-
-
-
 
 /* !Section -7 */
 .storm{
